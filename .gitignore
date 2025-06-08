@@ -1,0 +1,20 @@
+# Tệp hệ thống macOS
+.DS_Store
+
+# Thư mục cấu hình IDE
+.idea/
+
+# Tệp môi trường hoặc cấu hình nhạy cảm
+*.pem
+
+# Thư mục build hoặc tệp tạm của frontend/backend (nếu có)
+employeemanagement-frontend/node_modules/
+employeemanagement-frontend/build/
+employeemanagement-frontend/dist/
+employeemanagmentbackend/node_modules/
+employeemanagmentbackend/build/
+employeemanagmentbackend/dist/
+
+# Tệp log hoặc tạm
+*.log
+*.tmp
